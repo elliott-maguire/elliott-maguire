@@ -1,16 +1,49 @@
-### Hi there 👋
+### Hi there, I'm Elliott 👋
 
-<!--
-**elliott-maguire/elliott-maguire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and a revenue operations infrastructure architect at SmartRecruiters, Inc.
 
-Here are some ideas to get you started:
+### I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Smartian Space (closed-source), a network of microservices & PWAs build with DRF and React, respectively
+- dedo (open-source soon), a lightweight data warehousing tool written in Go
+- skopi (open-source soon), an AI-powered analytics and insights toolchain
+
+## Practices
+
+- Web development, primarily in microservices and progressive web applications
+- Library and infrastructure development, primarily in automative services and web-reliant data collection tooling
+- Command-line development, primarily in data aggregation and management tooling
+
+## Stack
+
+These are the primary technologies I actively work with or can work with.
+
+*& denotes frameworks or sub-technologies with which I have experience*
+
+### System
+
+- Python
+  - & Django/Django Rest Framework
+  - & Flask-like microframeworks
+  - & TensorFlow, NumPy, and pandas
+  - & Celery DTQ
+- Go
+- C/C++
+- Node.js
+  - & Express.js
+- Dart
+  - & Aqueduct
+- Java
+
+### Interface
+
+- HTML
+- CSS
+  - & SASS/SCSS
+- JavaScript
+  - & React
+  - & React Native
+  - & Angular
+- Dart
+  - & AngularDart
+  - & Flutter
