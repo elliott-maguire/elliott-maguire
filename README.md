@@ -10,7 +10,7 @@
 
 ### Research
 
-My primary research focus right now is the applications of IPFS derivatives, mainly content addressing, to data warehousing and analytics. If you have experience in this field, please reach out to llttm@pm.me, I'd love to hear your perspectives and potentially collaborate.
+My primary research focus right now is the application of IPFS derivatives, mainly content addressing, to data warehousing and analytics. If you have experience in this field, please reach out to llttm@pm.me, I'd love to hear your perspectives and potentially collaborate.
 
 ### Practices
 
