@@ -16,34 +16,4 @@
 
 ## Stack
 
-These are the primary technologies I actively work with or can work with.
-
-*& denotes frameworks or sub-technologies with which I have experience*
-
-### System
-
-- Python
-  - & Django/Django Rest Framework
-  - & Flask-like microframeworks
-  - & TensorFlow, NumPy, and pandas
-  - & Celery DTQ
-- Go
-- C/C++
-- Node.js
-  - & Express.js
-- Dart
-  - & Aqueduct
-- Java
-
-### Interface
-
-- HTML
-- CSS
-  - & SASS/SCSS
-- JavaScript
-  - & React
-  - & React Native
-  - & Angular
-- Dart
-  - & AngularDart
-  - & Flutter
+I work with/can work with Python, Go, C/C++, Node, Dart, Java, HTML/CSS/JS.
