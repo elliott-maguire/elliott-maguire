@@ -5,8 +5,8 @@
 ### Projects
 
 - Smartian Space (closed-source), a network of microservices & PWAs build with DRF and React, respectively
-- dedo (open-source soon), a lightweight data warehousing tool written in Go
-- skopi (open-source soon), an AI-powered analytics and insights toolchain
+- Syllogi (open-source), a lightweight data warehousing toolkit written in Go
+- Skopi (open-source soon), an AI-powered analytics and insights toolchain
 
 ### Research
 
