@@ -1,6 +1,6 @@
 ### Hi there, I'm Elliott 👋
 
-#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and an infrastructure developer in the revenue operations department at SmartRecruiters, Inc.
+#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and a junior infrastructure developer in the revenue operations department at SmartRecruiters, Inc.
 
 ### Projects
 
