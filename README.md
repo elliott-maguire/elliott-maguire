@@ -1,6 +1,6 @@
 ### Hi there, I'm Elliott 👋
 
-#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and a revenue operations infrastructure developer at SmartRecruiters, Inc.
+#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and an infrastructure developer in the revenue operations department at SmartRecruiters, Inc.
 
 ### Projects
 
@@ -10,7 +10,7 @@
 
 ### Research
 
-My primary research focus right now is the application of IPFS derivatives, mainly content addressing, to data warehousing and analytics. If you have experience in this field, please reach out to llttm@pm.me, I'd love to hear your perspectives and potentially collaborate.
+My primary research focus right now is high-efficiency, low-overhead data warehousing methods. I've been trying to design Syllogi to be a neatly abstract baseline for broader warehousing endeavors, so that I have something I can experiment with when it comes to massive data sets and higher numbers of concurrent synchronizations and such.
 
 ### Practices
 
