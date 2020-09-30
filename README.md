@@ -4,19 +4,19 @@
 
 ### Projects
 
-- Smartian Space (closed-source), a network of microservices & PWAs build with DRF and React, respectively
-- Syllogi (open-source), a lightweight data warehousing toolkit written in Go
-- Skopi (open-source soon), an AI-powered analytics and insights toolchain
+- Smartian Space (closed source), a network of microservices & PWAs build with DRF and React, respectively
+- Cirrus (closed source), an architecture of many small containerized Go services running from on DO Droplet
+- Brickhouse (open source), a lightweight data warehousing toolkit written in Go
+- Saleshouse (open suroce), a warehousing tool for Salesforce reports that uses Brickhouse
 
 ### Research
 
-My primary research focus right now is high-efficiency, low-overhead data warehousing methods. I've been trying to design Syllogi to be a neatly abstract baseline for broader warehousing endeavors, so that I have something I can experiment with when it comes to massive data sets and higher numbers of concurrent synchronizations and such.
+My primary research focus right now is high-efficiency, low-overhead data warehousing methods. Brickhouse is the primary experiment.
 
 ### Practices
 
 - Web development, primarily in microservices and progressive web applications
-- Library and infrastructure development, primarily in automative services and web-reliant data collection tooling
-- Command-line development, primarily in data aggregation and management tooling
+- Library and infrastructure development, primarily in automative services and data tooling
 
 ### Stack
 
