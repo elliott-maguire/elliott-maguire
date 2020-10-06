@@ -13,6 +13,10 @@
 
 My primary research focus right now is high-efficiency, low-overhead data warehousing methods. Brickhouse is the primary experiment.
 
+### Interests
+
+I've recently been getting interested in embedded systems as my interest in web development begins to wane.
+
 ### Practices
 
 - Web development, primarily in microservices and progressive web applications
