@@ -5,9 +5,9 @@
 ### Projects
 
 - Smartian Space (closed source), a network of microservices & PWAs build with DRF and React, respectively
-- Cirrus (closed source), an architecture of many small containerized Go services running from on DO Droplet
+- Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
 - Brickhouse (open source), a lightweight data warehousing toolkit written in Go
-- Saleshouse (open suroce), a warehousing tool for Salesforce reports that uses Brickhouse
+- Saleshouse (open source), a warehousing tool for Salesforce reports that uses Brickhouse
 
 ### Research
 
