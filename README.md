@@ -9,13 +9,9 @@
 - Brickhouse (open source), a lightweight data warehousing toolkit written in Go
 - Saleshouse (open source), a warehousing tool for Salesforce reports that uses Brickhouse
 
-### Research
-
-My primary research focus right now is high-efficiency, low-overhead data warehousing methods. Brickhouse is the primary experiment.
-
 ### Interests
 
-I've recently been getting interested in embedded systems as my interest in web development begins to wane.
+I've recently been getting interested in embedded systems as my interest in web development begins to wane, so in my free time I'm messing around with an Arduino and an MSP432 to learn, but professionally I'm working on high-efficiency, low-overhead data warehousing solutions, primarily for the CRM domain.
 
 ### Practices
 
