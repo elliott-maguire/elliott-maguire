@@ -6,7 +6,7 @@
 
 - Smartian Space (closed source), a network of microservices & PWAs build with DRF and React, respectively
 - Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
-- Brickhouse (open source), a lightweight data warehousing toolkit written in Go
+- Bricks (open source), a lightweight data warehousing toolkit written in Go
 - Saleshouse (open source), a warehousing tool for Salesforce reports that uses Brickhouse
 
 ### Interests
