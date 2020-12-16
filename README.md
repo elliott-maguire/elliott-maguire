@@ -6,12 +6,12 @@
 
 - Smartian Space (closed source), a network of microservices & PWAs build with DRF and React, respectively
 - Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
-- Bricks (open source), a lightweight data warehousing toolkit written in Go
-- Saleshouse (open source), a warehousing tool for Salesforce reports that uses Brickhouse
+- Bricks (open source), linear atomic change tracking for flat datasets
+- Saleshouse (open source), a web tool for tracking Salesforce report change histories
 
 ### Interests
 
-I've recently been getting interested in embedded systems as my interest in web development begins to wane, so in my free time I'm messing around with an Arduino and an MSP432 to learn, but professionally I'm working on high-efficiency, low-overhead data warehousing solutions, primarily for the CRM domain.
+I enjoy doing infrastructure development (APIs and libraries), but I've recently been diving deep into embedded systems. I started messing around with an Arduino Uno but am now trying to get an STM32F103C8 to do things, hopefully for standard use within the IEEE chapter at my university.
 
 ### Practices
 
@@ -20,4 +20,4 @@ I've recently been getting interested in embedded systems as my interest in web 
 
 ### Stack
 
-I work with/can work with Python, Go, C/C++, Node, Dart, Java, HTML/CSS/JS.
+I work with/can work with Go, C/C++, Python, Node, Dart, Java, HTML/CSS/JS.
