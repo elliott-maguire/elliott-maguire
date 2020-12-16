@@ -4,7 +4,7 @@
 
 ### Projects
 
-- Smartian Space (closed source), a network of microservices & PWAs build with DRF and React, respectively
+- Smartian Space (closed source), a network of microservices & SPAs build with DRF and React, respectively
 - Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
 - Bricks (open source), linear atomic change tracking for flat datasets
 - Saleshouse (open source), a web tool for tracking Salesforce report change histories
@@ -15,7 +15,7 @@ I enjoy doing infrastructure development (APIs and libraries), but I've recently
 
 ### Practices
 
-- Web development, primarily in microservices and progressive web applications
+- Web development (APIs and SPAs)
 - Library and infrastructure development, primarily in automative services and data tooling
 
 ### Stack
