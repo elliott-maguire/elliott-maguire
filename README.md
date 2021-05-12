@@ -7,7 +7,7 @@
 - Smartian Space (closed source), a network of microservices & SPAs build with DRF and React, respectively
 - Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
 - Ledger (open source), linear atomic change tracking for flat datasets
-- Saleshouse (open source), a web tool for tracking Salesforce report change histories
+- Saleshouse (closed), a web tool for tracking Salesforce report change histories
 
 ### Interests
 
