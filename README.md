@@ -6,7 +6,7 @@
 
 At SmartRecruiters:
 - Smartian Space (closed source), a network of microservices & SPAs build with DRF and React, respectively
-- Cirrus (closed source), an architecture of many small containerized Go services running from a few DO Droplets
+- Cirrus (closed source), a revamp of the Smartian Space model, but using Go and some new patterns
 - Saleshouse (closed source), a web tool for tracking Salesforce report change histories
 
 At IEEE EWU:
