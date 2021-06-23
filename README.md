@@ -1,6 +1,6 @@
 ### Hi there, I'm Elliott 👋
 
-#### I'm a 3rd year undergraduate computer science student at Eastern Washington University, and a junior infrastructure developer in the revenue operations department at SmartRecruiters, Inc. I am also the webmaster for the IEEE chapter at my university, and a volunteer youth minister at my church.
+#### I'm a senior undergraduate computer science student at Eastern Washington University, and a junior infrastructure developer in the revenue operations department at SmartRecruiters, Inc. I am also the webmaster for the IEEE chapter at my university, and a volunteer youth minister at my church.
 
 ### Projects
 
@@ -10,7 +10,7 @@ At SmartRecruiters:
 - Saleshouse, a web tool for tracking Salesforce report change histories
 
 At IEEE EWU:
-- A low-density small-scale drone swarm experiment with Crazyflie quadcopters and USC's Crazyswarm library
+- A low-density small-scale drone swarm experiment with Crazyflie quadcopters
 
 At home:
 - Ledger, an experiment in efficient linear atomic change tracking for flat datasets
