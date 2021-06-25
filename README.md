@@ -35,4 +35,4 @@ Infrastructure development is enjoyable, but recently I've been more interested 
 
 ### Stack
 
-I work with/can work with Go, C/C++, Python, Node, Dart, Java, HTML/CSS/JS.
+I work with/can work with Go, C/C++, Python, Node, Java, HTML/CSS/JS.
