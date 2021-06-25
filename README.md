@@ -1,6 +1,9 @@
 ### Hi there, I'm Elliott 👋
 
-#### I'm a senior undergraduate computer science student at Eastern Washington University, and a junior infrastructure developer in the revenue operations department at SmartRecruiters, Inc. I am also the webmaster for the IEEE chapter at my university, and a volunteer youth minister at my church.
+- Senior undergraduate computer science student at Eastern Washington University
+- Webmaster and drone research lead at IEEE EWU
+- Junior infrastructure developer for global operations at SmartRecruiters
+- API developer at Muriel Finance
 
 ### Projects
 
