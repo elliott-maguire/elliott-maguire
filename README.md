@@ -1,22 +1,28 @@
 ### Hi there, I'm Elliott 👋
 
-- Senior undergraduate computer science student at Eastern Washington University
-- Webmaster and drone research lead at IEEE EWU
 - Junior infrastructure developer for global operations at SmartRecruiters
 - API developer at Muriel Finance
+- Senior undergraduate computer science student at Eastern Washington University
+- Webmaster and drone research lead at IEEE EWU
 
 ### Projects
 
-At SmartRecruiters:
+**At SmartRecruiters:**
 - Smartian Space, a network of microservices & SPAs build with DRF and React, respectively
 - Cirrus, a revamp of the Smartian Space model and its implementations, but using Go and some new patterns
 - Saleshouse, a web tool for tracking Salesforce report change histories
 
-At IEEE EWU:
-- A low-density small-scale drone swarm experiment with Crazyflie quadcopters
 
-At home:
-- Ledger, an experiment in efficient linear atomic change tracking for flat datasets
+**At Muriel:**
+- The Go API that powers the platform
+
+**At Eastern Washington University:**
+- A whole bunch of random course projects in C and Java
+
+**At IEEE EWU:**
+- Our IEEE site
+- A website for the EagleAdapt project
+- A small-scale drone swarm orchestration project
 
 ### Interests
 
