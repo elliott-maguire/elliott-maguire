@@ -5,13 +5,13 @@
 - Senior undergraduate computer science student at Eastern Washington University
 - Webmaster and drone research lead at IEEE EWU
 
-### Projects
+### Active Projects
 
 **At SmartRecruiters:**
-- Smartian Space, a network of microservices & SPAs build with DRF and React, respectively
-- Cirrus, a revamp of the Smartian Space model and its implementations, but using Go and some new patterns
-- Saleshouse, a web tool for tracking Salesforce report change histories
-
+- Hiring Success Business Assessment, a long and complex survey tool used to help customers and prospects evaluate their key hiring metrics. Features some clever abstractions and implementations that make it highly flexible and modular, while retaining important structures necessary for the cohesion of the survey experience.
+- Customer Support Portal, a simple app that enables SmartRecruit platform admins to access and interact with all of their open support cases.
+- SmartReport/Candidate Experience Evaluator, a tool for evaluating candidate experiences. New build includes a browser extension with a wealth of automatic functionality that makes the SDR's job way easier.
+- Saleshouse, a web tool for tracking Salesforce report change histories (uses the Ledger library)
 
 **At Muriel:**
 - The Go API that powers the platform
@@ -20,7 +20,6 @@
 - A whole bunch of random course projects in C and Java
 
 **At IEEE EWU:**
-- Our IEEE site
 - A website for the EagleAdapt project
 - A small-scale drone swarm orchestration project
 
