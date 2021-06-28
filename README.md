@@ -26,12 +26,12 @@
 
 ### Interests
 
-Infrastructure development is enjoyable, but recently I've been more interested in embedded systems development and other low-level applications. Though time is severely limited considering commitments, I've tinkered with an Arduino and STM32 (F103C8T6) and enjoyed working with C/C++. I've also worked with some assembly in a course, but beyond that, my knowledge is still limited and I hope to learn more over the next couple years.
+It's difficult to define specific interests beyond what is presently in front of me. Had I the time, I'd like to think I'd dream up lofty interests to occupy my time and direct my efforts, but as I have work, school, and side projects to focus on, therein my efforts are directed. I enjoy working on the back end of things, writing elegant, concise, high-performance code, and quite honestly disdain working with visual interfaces. I prefer languages like C/C++ and Go over others like Python and JavaScript as I'm fond of typing and imperative constructs. Automating repetitive processes is a priority in most that I do, but in general, I'm interested in making processes run fast and clean.
 
 ### Practices
 
-- Web development (APIs and SPAs)
-- Library and infrastructure development, primarily in automative services and data tooling
+- Web development
+- Library and infrastructure development
 
 ### Stack
 
