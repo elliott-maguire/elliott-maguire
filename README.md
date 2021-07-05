@@ -1,4 +1,4 @@
-### Hi there, I'm Elliott 👋
+### Hi there, I'm Elliott
 
 - Junior infrastructure developer for global operations at SmartRecruiters
 - API developer at Muriel Finance
